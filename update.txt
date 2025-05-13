@@ -1,0 +1,6 @@
+v1
+DCutscene0-https://raw.githubusercontent.com/TeamMePlsBe/testfiles2/refs/heads/main/Sprite1.sprite3
+E-https://extensions.turbowarp.org/files.js
+v2
+https://raw.githubusercontent.com/TeamMePlsBe/testfiles2/refs/heads/main/Sprite1.sprite3
+DTitleIntro
