@@ -4,9 +4,3 @@ E-https://extensions.turbowarp.org/files.js
 v2
 https://raw.githubusercontent.com/TeamMePlsBe/testfiles2/refs/heads/main/Sprite1.sprite3
 DTitleIntro
-v3
-https://raw.githubusercontent.com/TeamMePlsBe/testfiles2/refs/heads/main/Sprite1.sprite3
-v4
-https://raw.githubusercontent.com/TeamMePlsBe/testfiles2/refs/heads/main/Sprite1.sprite3
-v5
-https://raw.githubusercontent.com/TeamMePlsBe/testfiles2/refs/heads/main/Sprite1.sprite3
